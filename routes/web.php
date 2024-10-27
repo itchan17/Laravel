@@ -12,7 +12,7 @@ Route::get('/jobs', function () {
         'jobs' => [
             [
                 'id' => 1,
-                'title' => 'Director',
+                'title' => 'Engineer',
                 'salary' => '$50,000'
             ],
             [
